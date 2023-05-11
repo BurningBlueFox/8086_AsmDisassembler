@@ -1,3 +1,4 @@
 bin
 obj
 AsmParser.csproj.user
+.idea
